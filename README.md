@@ -28,4 +28,4 @@ teredDemographicVO2Max and calories show a higher correlation with emotions. We 
  and get the highest accuracy of 97%. So, our work shows a strong potential for commercially
  available smartwatches to be utilized for emotion detection and mental health monitoring.
 ![Alt text](BILSTMVSFEED.png)
-
+![Alt text](AccuracyIncreasesIndifferentModel.png)
